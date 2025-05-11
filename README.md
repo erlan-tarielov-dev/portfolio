@@ -56,7 +56,7 @@
 
 ## 📥 Контакты
 
-* 📧 Email: [erlan.dev@gmail.com](mailto:erlan.dev@gmail.com)
+* 📧 Email: [erlan.tarielov.dev@gmail.com](mailto:erlan.dev@gmail.com)
 * 📱 Тел: +996 555 689 565
 * 🌐 GitHub: [github.com/erlan-tarielov-dev](https://github.com/erlan-tarielov-dev)
 * 📍 Город: Бишкек, Кыргызстан
